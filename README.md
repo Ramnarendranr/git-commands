@@ -18,6 +18,7 @@
         This command fetches updates from the main branch of the origin remote repository and merges them into your current branch.
 
 **git push**
+        
         Description: Uploads local repository content to a remote repository. Pushes commits from your local repository to a remote repository.
 
         Example: git push origin main
